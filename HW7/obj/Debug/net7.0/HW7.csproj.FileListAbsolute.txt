@@ -1,0 +1,15 @@
+C:\HW7\bin\Debug\net7.0\HW7.exe
+C:\HW7\bin\Debug\net7.0\HW7.deps.json
+C:\HW7\bin\Debug\net7.0\HW7.runtimeconfig.json
+C:\HW7\bin\Debug\net7.0\HW7.dll
+C:\HW7\bin\Debug\net7.0\HW7.pdb
+C:\HW7\obj\Debug\net7.0\HW7.csproj.AssemblyReference.cache
+C:\HW7\obj\Debug\net7.0\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW7\obj\Debug\net7.0\HW7.AssemblyInfoInputs.cache
+C:\HW7\obj\Debug\net7.0\HW7.AssemblyInfo.cs
+C:\HW7\obj\Debug\net7.0\HW7.csproj.CoreCompileInputs.cache
+C:\HW7\obj\Debug\net7.0\HW7.dll
+C:\HW7\obj\Debug\net7.0\refint\HW7.dll
+C:\HW7\obj\Debug\net7.0\HW7.pdb
+C:\HW7\obj\Debug\net7.0\HW7.genruntimeconfig.cache
+C:\HW7\obj\Debug\net7.0\ref\HW7.dll
