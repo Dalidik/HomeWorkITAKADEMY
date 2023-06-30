@@ -1,20 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-var Papa1 = new Papa("Papa", "Svin", "pink", 48);
-Console.WriteLine(Papa1.Info());
-Papa1.PrintSmth();
-Console.WriteLine();
+﻿int[] numbers = new int[6];
 
-var Mama1 = new Mama("Mama", "Svin", "pink", 45);
-Console.WriteLine(Mama1.Info());
-Papa1.PrintSmth();
-Console.WriteLine();
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.WriteLine("Enter numbers[{0}]", i);
+    numbers[i] = int.Parse(Console.ReadLine());
+}
 
-var Peppa1 = new Peppa("Peppa", "Svinka", "pink", 10);
-Console.WriteLine(Peppa1.Info());
-Papa1.PrintSmth();
-Console.WriteLine();
+Array.Sort(numbers);
+Array.Reverse(numbers);
 
-var Bro1 = new Bro("Brat", "Svin", "pink", 6);
-Console.WriteLine(Bro1.Info());
-Papa1.PrintSmth();
-Console.WriteLine();
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.Write(numbers[i] + " ");    
+}
+
+Console.ReadLine();
